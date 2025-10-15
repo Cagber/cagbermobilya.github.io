@@ -1,0 +1,1 @@
+// Bu dosya, TypeScript için özel türleri ve arayüzleri tanımlar. Projede kullanılacak olan veri yapıları ve bileşenlerin tiplerini içerir.
